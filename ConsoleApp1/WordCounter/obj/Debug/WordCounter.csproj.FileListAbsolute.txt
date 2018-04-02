@@ -4,3 +4,10 @@ C:\Users\Admin\Source\Repos\ConsoleApp1\WordCounter\bin\Debug\WordCounter.exe
 C:\Users\Admin\Source\Repos\ConsoleApp1\WordCounter\bin\Debug\WordCounter.pdb
 C:\Users\Admin\Source\Repos\ConsoleApp1\WordCounter\obj\Debug\WordCounter.exe
 C:\Users\Admin\Source\Repos\ConsoleApp1\WordCounter\obj\Debug\WordCounter.pdb
+C:\Users\StarTech\source\TestAppRepos\TestProjects\ConsoleApp1\WordCounter\bin\Debug\WordCounter.exe.config
+C:\Users\StarTech\source\TestAppRepos\TestProjects\ConsoleApp1\WordCounter\bin\Debug\WordCounter.exe
+C:\Users\StarTech\source\TestAppRepos\TestProjects\ConsoleApp1\WordCounter\bin\Debug\WordCounter.pdb
+C:\Users\StarTech\source\TestAppRepos\TestProjects\ConsoleApp1\WordCounter\obj\Debug\WordCounter.csproj.CoreCompileInputs.cache
+C:\Users\StarTech\source\TestAppRepos\TestProjects\ConsoleApp1\WordCounter\obj\Debug\WordCounter.exe
+C:\Users\StarTech\source\TestAppRepos\TestProjects\ConsoleApp1\WordCounter\obj\Debug\WordCounter.pdb
+C:\Users\StarTech\source\TestAppRepos\TestProjects\ConsoleApp1\WordCounter\obj\Debug\WordCounter.csprojResolveAssemblyReference.cache

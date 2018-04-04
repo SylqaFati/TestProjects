@@ -1,0 +1,9 @@
+C:\Users\StarTech\source\TestAppRepos\TestProjects\ConsoleApp1\WordCounterPDF\bin\Debug\WordCounterPDF.exe.config
+C:\Users\StarTech\source\TestAppRepos\TestProjects\ConsoleApp1\WordCounterPDF\bin\Debug\WordCounterPDF.exe
+C:\Users\StarTech\source\TestAppRepos\TestProjects\ConsoleApp1\WordCounterPDF\bin\Debug\WordCounterPDF.pdb
+C:\Users\StarTech\source\TestAppRepos\TestProjects\ConsoleApp1\WordCounterPDF\bin\Debug\itextsharp.dll
+C:\Users\StarTech\source\TestAppRepos\TestProjects\ConsoleApp1\WordCounterPDF\bin\Debug\itextsharp.xml
+C:\Users\StarTech\source\TestAppRepos\TestProjects\ConsoleApp1\WordCounterPDF\obj\Debug\WordCounterPDF.csprojResolveAssemblyReference.cache
+C:\Users\StarTech\source\TestAppRepos\TestProjects\ConsoleApp1\WordCounterPDF\obj\Debug\WordCounterPDF.csproj.CoreCompileInputs.cache
+C:\Users\StarTech\source\TestAppRepos\TestProjects\ConsoleApp1\WordCounterPDF\obj\Debug\WordCounterPDF.exe
+C:\Users\StarTech\source\TestAppRepos\TestProjects\ConsoleApp1\WordCounterPDF\obj\Debug\WordCounterPDF.pdb

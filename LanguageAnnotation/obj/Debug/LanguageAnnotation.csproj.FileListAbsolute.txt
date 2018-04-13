@@ -11,3 +11,16 @@ C:\Users\StarTech\source\TestAppRepos\TestProjects\ConsoleApp1\LanguageAnnotatio
 C:\Users\StarTech\source\TestAppRepos\TestProjects\ConsoleApp1\LanguageAnnotation\obj\Debug\LanguageAnnotation.csproj.CoreCompileInputs.cache
 C:\Users\StarTech\source\TestAppRepos\TestProjects\ConsoleApp1\LanguageAnnotation\obj\Debug\LanguageAnnotation.exe
 C:\Users\StarTech\source\TestAppRepos\TestProjects\ConsoleApp1\LanguageAnnotation\obj\Debug\LanguageAnnotation.pdb
+C:\Users\StarTech\source\TestAppRepos\TestProjects\Annotations\LanguageAnnotation\bin\Debug\LanguageAnnotation.exe.config
+C:\Users\StarTech\source\TestAppRepos\TestProjects\Annotations\LanguageAnnotation\bin\Debug\LanguageAnnotation.exe
+C:\Users\StarTech\source\TestAppRepos\TestProjects\Annotations\LanguageAnnotation\bin\Debug\LanguageAnnotation.pdb
+C:\Users\StarTech\source\TestAppRepos\TestProjects\Annotations\LanguageAnnotation\bin\Debug\IvanAkcheurov.Commons.dll
+C:\Users\StarTech\source\TestAppRepos\TestProjects\Annotations\LanguageAnnotation\bin\Debug\IvanAkcheurov.NClassify.dll
+C:\Users\StarTech\source\TestAppRepos\TestProjects\Annotations\LanguageAnnotation\bin\Debug\NTextCat.dll
+C:\Users\StarTech\source\TestAppRepos\TestProjects\Annotations\LanguageAnnotation\bin\Debug\IvanAkcheurov.Commons.xml
+C:\Users\StarTech\source\TestAppRepos\TestProjects\Annotations\LanguageAnnotation\bin\Debug\IvanAkcheurov.NClassify.xml
+C:\Users\StarTech\source\TestAppRepos\TestProjects\Annotations\LanguageAnnotation\bin\Debug\NTextCat.xml
+C:\Users\StarTech\source\TestAppRepos\TestProjects\Annotations\LanguageAnnotation\obj\Debug\LanguageAnnotation.csprojResolveAssemblyReference.cache
+C:\Users\StarTech\source\TestAppRepos\TestProjects\Annotations\LanguageAnnotation\obj\Debug\LanguageAnnotation.csproj.CoreCompileInputs.cache
+C:\Users\StarTech\source\TestAppRepos\TestProjects\Annotations\LanguageAnnotation\obj\Debug\LanguageAnnotation.exe
+C:\Users\StarTech\source\TestAppRepos\TestProjects\Annotations\LanguageAnnotation\obj\Debug\LanguageAnnotation.pdb
